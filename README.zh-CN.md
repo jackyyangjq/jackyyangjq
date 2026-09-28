@@ -12,7 +12,7 @@
 | **[ml-inflation-forecasting](https://github.com/jackieyangjq/ml-inflation-forecasting)**（机器学习通胀预测） | 用 FRED-MD 的 121 个宏观指标和机器学习预测美国通胀，复现 Medeiros 等（2021）。2001–2015 年树模型的预测误差比 AR 基准低 15–20%，2020 年后优势消失。 |
 | **[applied-stats-econometrics-toolkit](https://github.com/jackieyangjq/applied-stats-econometrics-toolkit)**（统计与计量方法工具箱） | 我在研究中用的统计与计量方法，每个都在模拟数据上检验过：分批实施的 DID、带固定效应的分位数回归、VAR、有界结果模型、变点检测。 |
 | **[llm-text-measurement](https://github.com/jackieyangjq/llm-text-measurement)**（用大模型做文本测量） | 用大模型标注 998 条酒店评论，并从六个角度检验：与住客本人好评 / 差评分栏的一致率 94.6%，换一个模型的一致性 α = 0.93，阴性对照零误报。 |
-| **[热量记录](https://github.com/jackieyangjq/caltrk)** · [在线使用](https://jackieyangjq.github.io/caltrk/) | 离线网页应用：用视觉模型识别食物照片，用真实体重数据校准热量估计。六周发布 24 个版本。 |
+| **[热量记录](https://github.com/jackieyangjq/caltrk)** · [在线使用](https://jackieyangjq.github.io/caltrk/) | 离线网页应用：用视觉模型识别食物照片，用真实体重数据校准热量估计。七周发布 20 个版本。 |
 | **[filings-qa-agent](https://github.com/jackieyangjq/filings-qa-agent)**（财报问答研究助手） | 美国上市公司年报季报问答：每句话都有可核对的出处，带会调用工具的研究智能体，50 题检索评测（关键词检索答对 95%）。 |
 | **[catfolio fork](https://github.com/jackieyangjq/catfolio)**（投资面板） | 投资面板的 fork：加了券商同步和观点记分牌，按之后的股价给个股观点打分。已向上游提交 4 个 PR。 |
 
