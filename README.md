@@ -2,13 +2,14 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-Economics researcher at The Hong Kong Polytechnic University and the University of Surrey, building LLM-powered tools for investment research. I care about pipelines that run every day without me, and about measuring whether the model actually got it right.
+Economics researcher at The Hong Kong Polytechnic University and the University of Surrey, building LLM-powered tools for investment research and machine-learning forecasting models. I care about pipelines that run every day without me, and about measuring whether the model actually got it right.
 
 ## Projects
 
 | Project | What it is |
 |---|---|
 | **[finfluencer-digest](https://github.com/jackieyangjq/finfluencer-digest)** | Every morning, Gemini watches 16 YouTube finance channels and a set of X accounts, extracts structured stock calls, aggregates consensus and disagreement, and emails a digest. Multi-model fallback, GitHub Actions scheduling with a gate against dropped cron triggers, and source-verified news to prevent fabricated citations. Python; 27 offline tests, CI, demo mode that runs without keys. |
+| **[ml-inflation-forecasting](https://github.com/jackieyangjq/ml-inflation-forecasting)** | Replication and extension of Medeiros et al. (2021, *JBES*) on US CPI inflation: 8 models from a BIC-lag AR to LASSO, random forest and XGBoost, refitted monthly on 121 FRED-MD series over 308 rolling windows (2000-2026), with Diebold-Mariano tests, a model confidence set and SHAP explanations of every forecast. On the paper's 2001-2015 period the tree models cut 12-month RMSE by 15-20% against AR; from 2020 on no model beats it. Python; tests, CI, results committed. |
 | **[Calorie tracker](https://github.com/jackieyangjq/caltrk)** · [live](https://jackieyangjq.github.io/caltrk/) | Single-file offline-first web app with vision-model food recognition, arithmetic cross-checks on model output, and weekly calibration of the energy model against real weight data. 24 releases in six weeks. |
 | **[filings-qa-agent](https://github.com/jackieyangjq/filings-qa-agent)** | Question answering over SEC 10-K/10-Q filings with a checkable source on every sentence (sentences citing unseen passages are dropped), a traced tool-using research agent, and an evaluation of 50 questions comparing keyword, vector and hybrid retrieval (BM25 95% correct, hybrid 90%, vector 70%; all 30 unanswerable pairs declined). SQLite FTS5 and numpy instead of a vector database; 168 offline tests, CI, offline demo. |
 | **[catfolio fork](https://github.com/jackieyangjq/catfolio)** | A local-first portfolio dashboard (upstream: irrwood/catfolio, MIT) extended with Longbridge account sync and a call-tracker workspace that scores stock calls from any source against later prices, with a follow-every-call curve and monthly hit rates per source. Four pull requests open upstream. |
