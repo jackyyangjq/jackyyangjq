@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-labelledby="t">
+  <title id="t">Jiaqi (Jacky) Yang, Dual PhD Candidate, The Hong Kong Polytechnic University and University of Surrey</title>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="18" fill="#141112" stroke="#332d2e"/>
+  <path d="M18 0.5 H12 V299.5 H18 A17.5 17.5 0 0 1 0.5 282 V18 A17.5 17.5 0 0 1 18 0.5 Z" fill="#e07a88"/>
+  <text x="72" y="118" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="58" fill="#f5f2f0">Jiaqi (Jacky) Yang</text>
+  <text x="74" y="166" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#e07a88">Dual PhD Candidate</text>
+  <text x="74" y="204" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#d6d3d1">The Hong Kong Polytechnic University · University of Surrey</text>
+  <line x1="74" y1="232" x2="150" y2="232" stroke="#e07a88" stroke-width="3"/>
+  <text x="74" y="264" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#78716c">Causal inference · Time series · LLMs for text · Tourism and hospitality</text>
+  <line x1="800" y1="100" x2="1250" y2="100" stroke="#332d2e" stroke-width="1"/><line x1="800" y1="150" x2="1250" y2="150" stroke="#332d2e" stroke-width="1"/><line x1="800" y1="200" x2="1250" y2="200" stroke="#332d2e" stroke-width="1"/><line x1="800" y1="250" x2="1250" y2="250" stroke="#332d2e" stroke-width="1"/>
+  <line x1="1010" y1="84" x2="1010" y2="262" stroke="#78716c" stroke-width="1" stroke-dasharray="4 4"/>
+  <polyline points="820,196 860,194 900,197 940,195 990,195 1030,190 1070,172 1110,150 1150,134 1190,124 1230,118" fill="none" stroke="#e07a88" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="820" cy="196" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="860" cy="194" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="900" cy="197" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="940" cy="195" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="990" cy="195" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="1030" cy="190" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="1070" cy="172" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="1110" cy="150" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="1150" cy="134" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="1190" cy="124" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/><circle cx="1230" cy="118" r="5" fill="#e07a88" stroke="#141112" stroke-width="2"/>
+</svg>
