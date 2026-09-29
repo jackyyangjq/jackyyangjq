@@ -47,6 +47,18 @@ I study how digital technology and public policy change tourism and hospitality 
 | **[catfolio fork](https://github.com/jackyyangjq/catfolio)** | Portfolio dashboard fork with broker sync and a tracker that scores stock calls against later prices. Four pull requests upstream. |
 | **[Calorie tracker](https://github.com/jackyyangjq/caltrk)** · [live](https://jackyyangjq.github.io/caltrk/) | Offline web app that recognises food from photos with a vision model and calibrates calorie estimates against real weight data. 20 versions in seven weeks. |
 
+## How I work with AI
+
+Claude Code is my main tool for research and software. The method in outline is on my website, [How I work with AI](https://jackyyangjq.github.io/ai-workflow/), and the templates are in [ai-research-workflow](https://github.com/jackyyangjq/ai-research-workflow).
+
+| Topic | In short |
+|---|---|
+| Vibe coding | I write the spec and the checks, an AI agent writes the code, and I test each step before anything goes public. |
+| A paper with AI | One working paper taken from question to journal-ready files with AI at every stage; the design and the claims stay mine. |
+| Effort levels | Low effort while working out what to do, high effort when checking the result. |
+| Project management | A coordinating session, task cards, one task board and a fresh reviewer for every result. |
+| Quiet errors | Six mistakes in AI-assisted work that gave no error message, and the checks that now catch them. |
+
 ## Open source
 
 - [ClaudeCodeUsage](https://github.com/ClaudeCodeUsage/ClaudeCodeUsage) (VS Code extension, TypeScript): [#115](https://github.com/ClaudeCodeUsage/ClaudeCodeUsage/pull/115) cached the dashboard date-label formatter (fixes #99), merged September 2026.
